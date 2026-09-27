@@ -1,0 +1,128 @@
+{
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff": {
+    "file": "assets/tajawal-arabic-400-normal-DCQxawbB.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff2": {
+    "file": "assets/tajawal-arabic-400-normal-CyCXRvzh.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-400-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff": {
+    "file": "assets/tajawal-arabic-500-normal-CbVEaYEW.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff2": {
+    "file": "assets/tajawal-arabic-500-normal-BZ8ojJNu.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-500-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff": {
+    "file": "assets/tajawal-arabic-700-normal-9L7Zusdl.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff2": {
+    "file": "assets/tajawal-arabic-700-normal-D2-eand5.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-700-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-800-normal.woff": {
+    "file": "assets/tajawal-arabic-800-normal-Bp_4IW2m.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-800-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-arabic-800-normal.woff2": {
+    "file": "assets/tajawal-arabic-800-normal-TQp-UTiE.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-arabic-800-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff": {
+    "file": "assets/tajawal-latin-400-normal-BdYcZznU.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff2": {
+    "file": "assets/tajawal-latin-400-normal-BVNSOH3d.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff": {
+    "file": "assets/tajawal-latin-500-normal-DU9v6xgj.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff2": {
+    "file": "assets/tajawal-latin-500-normal-CoYeBiSI.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff": {
+    "file": "assets/tajawal-latin-700-normal-CV3bxpHe.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff2": {
+    "file": "assets/tajawal-latin-700-normal-BypgxfGb.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-800-normal.woff": {
+    "file": "assets/tajawal-latin-800-normal-Dm5jVIIh.woff",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/tajawal/files/tajawal-latin-800-normal.woff2": {
+    "file": "assets/tajawal-latin-800-normal-CmI34b-g.woff2",
+    "src": "node_modules/@fontsource/tajawal/files/tajawal-latin-800-normal.woff2"
+  },
+  "resources/css/admin.css": {
+    "file": "assets/admin-bm2vrZMK.css",
+    "name": "admin",
+    "names": [
+      "admin.css"
+    ],
+    "src": "resources/css/admin.css",
+    "isEntry": true,
+    "assets": [
+      "assets/tajawal-arabic-400-normal-CyCXRvzh.woff2",
+      "assets/tajawal-arabic-400-normal-DCQxawbB.woff",
+      "assets/tajawal-latin-400-normal-BVNSOH3d.woff2",
+      "assets/tajawal-latin-400-normal-BdYcZznU.woff",
+      "assets/tajawal-arabic-500-normal-BZ8ojJNu.woff2",
+      "assets/tajawal-arabic-500-normal-CbVEaYEW.woff",
+      "assets/tajawal-latin-500-normal-CoYeBiSI.woff2",
+      "assets/tajawal-latin-500-normal-DU9v6xgj.woff",
+      "assets/tajawal-arabic-700-normal-D2-eand5.woff2",
+      "assets/tajawal-arabic-700-normal-9L7Zusdl.woff",
+      "assets/tajawal-latin-700-normal-BypgxfGb.woff2",
+      "assets/tajawal-latin-700-normal-CV3bxpHe.woff"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DNAudv_K.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "assets": [
+      "assets/tajawal-arabic-400-normal-CyCXRvzh.woff2",
+      "assets/tajawal-arabic-400-normal-DCQxawbB.woff",
+      "assets/tajawal-latin-400-normal-BVNSOH3d.woff2",
+      "assets/tajawal-latin-400-normal-BdYcZznU.woff",
+      "assets/tajawal-arabic-500-normal-BZ8ojJNu.woff2",
+      "assets/tajawal-arabic-500-normal-CbVEaYEW.woff",
+      "assets/tajawal-latin-500-normal-CoYeBiSI.woff2",
+      "assets/tajawal-latin-500-normal-DU9v6xgj.woff",
+      "assets/tajawal-arabic-700-normal-D2-eand5.woff2",
+      "assets/tajawal-arabic-700-normal-9L7Zusdl.woff",
+      "assets/tajawal-latin-700-normal-BypgxfGb.woff2",
+      "assets/tajawal-latin-700-normal-CV3bxpHe.woff",
+      "assets/tajawal-arabic-800-normal-TQp-UTiE.woff2",
+      "assets/tajawal-arabic-800-normal-Bp_4IW2m.woff",
+      "assets/tajawal-latin-800-normal-CmI34b-g.woff2",
+      "assets/tajawal-latin-800-normal-Dm5jVIIh.woff"
+    ]
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin-BsiB94ms.js",
+    "name": "admin",
+    "src": "resources/js/admin.js",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BhZEXga0.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}

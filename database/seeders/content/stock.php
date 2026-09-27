@@ -1,0 +1,138 @@
+<?php
+
+/**
+ * Licensed stock photographs (CC0 / public domain, Wikimedia Commons) used as illustrative imagery.
+ * They never depict the company's own projects. See docs/IMAGE-CREDITS.md.
+ *
+ * @return array<string, array{file: string, alt_ar: string, alt_en: string, credit: string, source_url: string, license: string}>
+ */
+return [
+    'hero-construction' => [
+        'file' => 'hero-construction.jpg',
+        'alt_ar' => 'منظر علوي لموقع إنشاء مبنى',
+        'alt_en' => 'Aerial view of a building construction site',
+        'credit' => 'chuttersnap (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:View_Above_Construction_Site_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'hero-highway' => [
+        'file' => 'hero-highway.jpg',
+        'alt_ar' => 'منظر جوي لتقاطع طرق سريعة',
+        'alt_en' => 'Aerial view of a highway interchange',
+        'credit' => 'Irina Blok (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Drone_view_of_highway_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'hero-refinery' => [
+        'file' => 'hero-refinery.jpg',
+        'alt_ar' => 'منشأة تكرير نفط عند الغروب',
+        'alt_en' => 'An oil refinery at sunset',
+        'credit' => 'W.carter',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Sunset_over_Norrkila_and_Preemraff.jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'hero-containers' => [
+        'file' => 'hero-containers.jpg',
+        'alt_ar' => 'حاويات شحن في محطة حاويات من الأعلى',
+        'alt_en' => 'Shipping containers at a container terminal, seen from above',
+        'credit' => 'chuttersnap (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Container_terminal_from_above_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'about-drawings' => [
+        'file' => 'about-drawings.jpg',
+        'alt_ar' => 'مخططات هندسية وأدوات رسم على طاولة',
+        'alt_en' => 'Engineering drawings and drafting tools on a table',
+        'credit' => 'Sergey Zolkin (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Architectural_drawings_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'about-site' => [
+        'file' => 'about-site.jpg',
+        'alt_ar' => 'رافعات ومعدات في موقع إنشاء',
+        'alt_en' => 'Cranes and equipment on a construction site',
+        'credit' => 'U.S. Department of Agriculture',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Construction_site_of_the_future_Medical_West_Hospital,_an_affiliate_of_University_of_Alabama_at_Birmingham_(UAB)_Health_System,_in_Bessemer,_Alabama_on_January_26,_2022_-_1.jpg',
+        'license' => 'Public domain',
+    ],
+    'about-scaffold' => [
+        'file' => 'about-scaffold.jpg',
+        'alt_ar' => 'عمّال على سقالات في موقع بناء',
+        'alt_en' => 'Workers on scaffolding at a building site',
+        'credit' => 'John Salvino (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Construction_Work_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'roads' => [
+        'file' => 'roads.jpg',
+        'alt_ar' => 'أعمال إنشاء طريق ودوّار من الأعلى',
+        'alt_en' => 'Road and roundabout construction seen from above',
+        'credit' => 'Ricardo Gomez Angel (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Road_under_construction_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'pumpjack' => [
+        'file' => 'pumpjack.jpg',
+        'alt_ar' => 'مضخة نفط في حقل',
+        'alt_en' => 'An oil pumpjack in a field',
+        'credit' => 'Gerardolagunes',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Hockley_County_Levelland_Texas_crude_oil_pump_facilities_2025_(2).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'tanker' => [
+        'file' => 'tanker.jpg',
+        'alt_ar' => 'شاحنة صهريج لنقل الوقود',
+        'alt_en' => 'A fuel tanker truck',
+        'credit' => 'The Fun Chronicles',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:66_Frazier_Mountain_Road_Views_(30)_-_Fuel_Tanker_For_Helicopter_Refueling.jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'ship' => [
+        'file' => 'ship.jpg',
+        'alt_ar' => 'سفينة في عرض البحر',
+        'alt_en' => 'A ship at sea',
+        'credit' => 'Miguel Cardona Jr. (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Large_ship_silhouette_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'bitumen-roof' => [
+        'file' => 'bitumen-roof.jpg',
+        'alt_ar' => 'طبقات عزل بيتومينية على سطح مستوٍ',
+        'alt_en' => 'Bituminous waterproofing layers on a flat roof',
+        'credit' => 'W.carter',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Bituminous_waterproofing_on_flat_roof_2.jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'gears' => [
+        'file' => 'gears.jpg',
+        'alt_ar' => 'تروس وأجزاء ميكانيكية متحركة',
+        'alt_en' => 'Gears and moving mechanical parts',
+        'credit' => 'Chester Alvarez (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Moving_Parts_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'containers-port' => [
+        'file' => 'containers-port.jpg',
+        'alt_ar' => 'حاويات شحن مصفوفة في ميناء',
+        'alt_en' => 'Shipping containers stacked at a port',
+        'credit' => 'Igor Ovsyannykov (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Shipping_containers_in_a_port_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'tools' => [
+        'file' => 'tools.jpg',
+        'alt_ar' => 'مفاتيح ربط معلّقة في ورشة',
+        'alt_en' => 'Wrenches hanging in a workshop',
+        'credit' => 'Mikael Kristenson (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Tools_in_order_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+    'storage' => [
+        'file' => 'storage.jpg',
+        'alt_ar' => 'منطقة تخزين مواد ومعدات',
+        'alt_en' => 'An industrial storage area for materials and equipment',
+        'credit' => 'Charly Birdsinger (via Unsplash)',
+        'source_url' => 'https://commons.wikimedia.org/wiki/File:Industrial_storage_area_(Unsplash).jpg',
+        'license' => 'CC0 1.0',
+    ],
+];

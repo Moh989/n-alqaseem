@@ -1,0 +1,49 @@
+:root {
+    /* Brand palette — taken from the logo (#52413B brown, #C29865 gold) and the company profile. */
+    --brown-950: #241b18;
+    --brown-900: #3a2d29;
+    --brown-800: #52413b;
+    --brown-700: #6b5850;
+    --brown-600: #85726a;
+    --gold-500: #c29865;
+    --gold-400: #d6b88f;
+    --gold-200: #eadbc5;
+    --gold-100: #f4ecdf;
+    --gold-ink: #7a5c33; /* gold-toned text with AA contrast on cream */
+    --grey-300: #d1d3d4;
+    --cream-50: #f7f4ee;
+    --cream-100: #efe8dc;
+    --paper: #ffffff;
+    --ink: #2e2320;
+    --muted: #65554d;
+    --line: #e3dace;
+    --line-strong: #cfc3b3;
+    --success-bg: #e6f1e9;
+    --success-ink: #1f5a3d;
+    --danger: #a3322a;
+    --danger-bg: #fbeae8;
+
+    --font: 'Tajawal', system-ui, -apple-system, 'Segoe UI', 'Noto Sans Arabic', Tahoma, Arial, sans-serif;
+
+    --radius-sm: 6px;
+    --radius: 10px;
+    --radius-lg: 18px;
+    --shadow-sm: 0 1px 2px rgb(58 45 41 / 0.06), 0 2px 6px rgb(58 45 41 / 0.06);
+    --shadow: 0 18px 40px -18px rgb(58 45 41 / 0.35);
+    --shadow-lg: 0 30px 60px -24px rgb(36 27 24 / 0.45);
+
+    --container: 1240px;
+    --gutter: clamp(1rem, 4vw, 2.5rem);
+    --header-h: 78px;
+    --section-space: clamp(3.5rem, 2rem + 5vw, 6.5rem);
+    --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+
+    /* Direction multiplier for transforms, which have no logical equivalent. */
+    --dir: 1;
+
+    color-scheme: light;
+}
+
+[dir='rtl'] {
+    --dir: -1;
+}
